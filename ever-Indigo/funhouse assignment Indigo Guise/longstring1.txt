@@ -1,0 +1,8 @@
+
+- - -
+Who will you ask?
+- - -
+1: ask the person on the left
+2: ask the person on the right
+- - -
+-> 
