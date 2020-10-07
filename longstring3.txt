@@ -1,0 +1,9 @@
+
+- - -
+Which door do you enter...?
+- - -
+1: enter through the left door
+2: enter through the right door
+3: enter through the door behind you
+- - -
+-> 

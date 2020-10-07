@@ -1,0 +1,14 @@
+
+- - -
+What will you ask them?
+- - -
+1: Which door will give me points?
+2: If I asked the OTHER person a question, would they lie?
+3: Would the other person say you are a liar?
+4: Which door leads to the trap?
+5: What's behind your door?
+6: Would the other person say you are truthful?
+7: If I asked YOU a question, would you tell the truth?
+8: What's behind the other door?
+- - -
+-> 

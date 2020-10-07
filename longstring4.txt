@@ -1,0 +1,8 @@
+
+- - -
+Are you sure you want to leave?
+- - -
+1: Yes, leave
+2: No, stay
+- - -
+-> 
